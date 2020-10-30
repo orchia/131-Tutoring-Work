@@ -1,6 +1,6 @@
 package Testing;
 
-public class Serena2 {
+public class Recursion Methods {
 	
 	public static int ArraySum(int[] array)
 	{
